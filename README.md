@@ -17,11 +17,11 @@ Python Code for Cervical Cancer - https://github.com/yuvaraja402/Research_Breast
   1. Breast and cervical datasets from kaggle 
   2. Performed Data cleaning, wrangling, analysis and Predictive modelling in Python.
   3. Libraries used - 
-    1. Numpy for storing data into arrays
-    2. Pandas for processing data into dataframes
-    3. Matplotlib for rudimentry visualization
-    4. Sklearn for data mining and machine models
-    5. Seaborn for visualizing results.
+      1. Numpy for storing data into arrays
+      2. Pandas for processing data into dataframes
+      3. Matplotlib for rudimentry visualization
+      4. Sklearn for data mining and machine models
+      5. Seaborn for visualizing results.
   
 #### Models Implemented-
   1. Artificial Neural Networks  
