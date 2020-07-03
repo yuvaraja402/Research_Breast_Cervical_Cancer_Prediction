@@ -9,9 +9,9 @@ Research <b>Objective :dart: - <i>To develop a model to predict with better accu
 
 [Detailed Documentation and Analysis report](https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/x17150663_Research_Project_report.pdf)
 
-[Python Code for Breast Cancer](https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_breast_cancer.ipynb)
+[Python Notebook for Breast Cancer](https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_breast_cancer.ipynb)
 
-[Python Code for Cervical Cancer](https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_Cervical_cancer.ipynb)
+[Python Notebook for Cervical Cancer](https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_Cervical_cancer.ipynb)
 
 ### Implementation Overview : 
   1. Breast and cervical datasets gathered from kaggle 
