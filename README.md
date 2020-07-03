@@ -1,9 +1,9 @@
 # Research (Master's Thesis)
 ## Predictive analysis on factors causing Breast and Cervical cancers in a woman using supervised learning with ensemble learning techniques and data mining algorithms.
 
-Research <b>Motivation - <i>"Till what extent does age and gender unquestionably become the reason behind women's breast and cervical cancer occcurences using ensemble learners?"</b></i>
+Research <b>Motivation - <i>"Till what extent does Age and Gender unquestionably become the reason behind woman's breast and cervical cancer occcurences using ensemble learning?"</b></i>
 
-Research <b>Objective - <i>To develop a method t predict with betetr accuracy and less error to minimize deaths caused from breast and cervical cancer.</i></b>
+Research <b>Objective - <i>To develop a model to predict with better accuracy and minimal error to reduce deaths caused from breast and cervical cancer.</i></b>
 
 Quick Links:
 
