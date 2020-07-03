@@ -5,8 +5,7 @@ Research <b>Motivation - <i>"Till what extent does Age and Gender unquestionably
 
 Research <b>Objective - <i>To develop a model to predict with better accuracy and minimal error to reduce deaths caused from breast and cervical cancer.</i></b>
 
-Quick Links:
-
+Quick Links :link::
 Detailed Documentation - https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/x17150663_Research_Project_report.pdf
 
 Python Code for Breast Cancer - https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_breast_cancer.ipynb
@@ -16,7 +15,12 @@ Python Code for Cervical Cancer - https://github.com/yuvaraja402/Research_Breast
 Overview of Implementation - 
   1. Breast and cervical datasets from kaggle 
   2. Performed Data cleaning, wrangling, analysis and Predictive modelling in Python.
-  3. Use of libraries - numpy, pandas, matplotlib, sklearn and seaborn.
+  3. Libraries used - 
+    1. Numpy for storing data into arrays
+    2. Pandas for processing data into dataframes
+    3. Matplotlib for rudimentry visualization
+    4. Sklearn for data mining and machine models
+    5. Seaborn for visualizing results.
   
 Models Implemented-
   1. Artificial Neural Networks  
