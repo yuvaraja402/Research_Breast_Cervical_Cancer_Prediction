@@ -31,4 +31,4 @@ Python Code for Cervical Cancer - https://github.com/yuvaraja402/Research_Breast
   5. Random Forest
   6. Ensemble learner model
 
-![picture alt](https://prnt.sc/taxqc9 "Title is optional")
+![picture alt](https://prnt.sc/taxqc9/200x150 "Title is optional")
