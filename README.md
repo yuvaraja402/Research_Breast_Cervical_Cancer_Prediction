@@ -26,7 +26,7 @@ Python Code for Cervical Cancer - https://github.com/yuvaraja402/Research_Breast
 ### Models Implemented :
   1. Artificial Neural Networks  
   2. Logistic regression
-  3. K nearest Neighbour
+  3. K nearest Neighbors
   4. Decision Trees
   5. Random Forest
   6. Ensemble learner model
