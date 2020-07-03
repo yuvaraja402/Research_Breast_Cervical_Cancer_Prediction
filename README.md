@@ -13,22 +13,20 @@ Python Code for Breast Cancer - https://github.com/yuvaraja402/Research_Breast_C
 
 Python Code for Cervical Cancer - https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_Cervical_cancer.ipynb
 
-#### Overview of Implementation - 
-  1. Breast and cervical datasets from kaggle 
-  2. Performed Data cleaning, wrangling, analysis and Predictive modelling in Python.
-  3. Libraries used - 
+#### Implementation Overview : 
+  1. Breast and cervical datasets gathered from kaggle 
+  2. Performed Data cleaning, wrangling, predictvie analysis in Python.
+  3. Python libraries used - 
       1. <b>Numpy</b> for storing data into arrays
       2. <b>Pandas</b> for processing data into dataframes
       3. <b>Matplotlib</b> for rudimentry visualization
       4. <b>Sklearn</b> for data mining and machine models
       5. <b>Seaborn</b> for visualizing results.
   
-#### Models Implemented-
+#### Models Implemented :
   1. Artificial Neural Networks  
   2. Logistic regression
   3. K nearest Neighbour
   4. Decision Trees
   5. Random Forest
   6. Ensemble learner model
-
-![picture alt](https://prnt.sc/taxqc9)
