@@ -1,17 +1,17 @@
 # Research (Master's Thesis)
 ## Predictive analysis on factors causing Breast and Cervical cancers in a woman :woman: using supervised learning with ensemble learning techniques and data mining algorithms.
 
-Research <b>Motivation - <i>"Till what extent does Age unquestionably become the reason behind woman's :woman: breast and cervical cancer occcurences using ensemble learning?"</b></i>
+Research <b>Motivation :thought_balloon: - <i>"Till what extent does Age unquestionably become the reason behind woman's :woman: breast and cervical cancer occcurences using ensemble learning?"</b></i>
 
-Research <b>Objective - <i>To develop a model to predict with better accuracy and minimal error to reduce :chart_with_downwards_trend: deaths caused from breast and cervical cancer.</i></b>
+Research <b>Objective :dart: - <i>To develop a model to predict with better accuracy and minimal error to reduce :chart_with_downwards_trend: deaths caused from breast and cervical cancer.</i></b>
 
 ### Quick Links :link::
 
-Detailed Documentation - https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/x17150663_Research_Project_report.pdf
+[Detailed Documentation and Analysis report](https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/x17150663_Research_Project_report.pdf)
 
-Python Code for Breast Cancer - https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_breast_cancer.ipynb
+[Python Code for Breast Cancer](https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_breast_cancer.ipynb)
 
-Python Code for Cervical Cancer - https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_Cervical_cancer.ipynb
+[Python Code for Cervical Cancer](https://github.com/yuvaraja402/Research_Breast_Cervical_Cancer_Prediction/blob/master/Thesis_Cervical_cancer.ipynb)
 
 ### Implementation Overview : 
   1. Breast and cervical datasets gathered from kaggle 
