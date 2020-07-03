@@ -33,4 +33,4 @@ Python Code for Cervical Cancer - https://github.com/yuvaraja402/Research_Breast
 
 ### Results :tada::
   1. Attained accurate predictions of 92% :bar_chart: with data mining algorithms and 96% :bar_chart: with ensemble learning techniques.
-  2. Analysis showed red meat :meat_on_bone: consumption of 38% and alcohol :beer: consumption of 23% lead to risk of cancer cells development in women :woman:.
+  2. Analysis showed red meat :meat_on_bone: consumption of 38% and alcohol :beer: consumption of 23% lead to risk of cancer cells development in women.
